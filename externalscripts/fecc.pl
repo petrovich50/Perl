@@ -6,6 +6,7 @@
 #use strict;
 #use warnings;
 # use AutoLoader 'AUTOLOAD';
+#this script to do something
 use JSON::RPC::Legacy::Client;
 use Data::Dumper;
 use Net::SNMP;
